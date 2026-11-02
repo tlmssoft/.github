@@ -10,11 +10,11 @@ Wir entwickeln vernetzte Produkte für Vertriebsteams, Lieferanten und Geschäft
 
 | Produkt | Einsatzbereich | Mehr erfahren |
 | --- | --- | --- |
-| **[Torg](https://github.com/tlmssoft/torg)** | Teams, Touren, Besuche, Aufgaben und operative Ergebnisse für Vertriebs- und Teamleitungen. | [Vertriebsteams steuern](https://tlmssoft.com/de/solutions/sales-team-management) |
-| **[B2B Portal](https://github.com/tlmssoft/b2b-portal)** | Katalog, wiederkehrende Bestellungen und Serviceanfragen für Lieferanten und Geschäftskunden. | [B2B-Bestellprozesse](https://tlmssoft.com/de/solutions/b2b-ordering) |
-| **[Torg Mobile](https://github.com/tlmssoft/torg-mobile)** | Bestellungen, Aufgaben, Fotos und Synchronisierung im Android-Außendienst. | [Mobiler Vertrieb](https://tlmssoft.com/de/solutions/field-sales) |
+| **[Torg](https://tlmssoft.com/de/products/torg)** | Teams, Touren, Besuche, Aufgaben und operative Ergebnisse für Vertriebs- und Teamleitungen. | [Vertriebsteams steuern](https://tlmssoft.com/de/solutions/sales-team-management) |
+| **[B2B Portal](https://tlmssoft.com/de/products/b2b)** | Katalog, wiederkehrende Bestellungen und Serviceanfragen für Lieferanten und Geschäftskunden. | [B2B-Bestellprozesse](https://tlmssoft.com/de/solutions/b2b-ordering) |
+| **[Torg Mobile](https://tlmssoft.com/de/products/mobile)** | Bestellungen, Aufgaben, Fotos und Synchronisierung im Android-Außendienst. | [Mobiler Vertrieb](https://tlmssoft.com/de/solutions/field-sales) |
 
-Die öffentlichen Produkt-Repositories enthalten Funktionsübersichten, beispielhafte Oberflächen und Links zu Arbeitsabläufen. Der Quellcode der Anwendungen wird privat gepflegt.
+Produktfunktionen, beispielhafte Oberflächen und ausführliche Arbeitsabläufe finden Sie auf unserer Website. Der Quellcode der Anwendungen wird privat gepflegt.
 
 ## Ein verbundenes Ökosystem
 
@@ -28,4 +28,3 @@ React, Next.js und React Native für Web und Mobilgeräte. Python, FastAPI und P
 
 - [Produkte](https://tlmssoft.com/de#products) und [Geschäftslösungen](https://tlmssoft.com/de#solutions).
 - Website auf [Ukrainisch](https://tlmssoft.com/uk), [Englisch](https://tlmssoft.com/en), [Deutsch](https://tlmssoft.com/de) und [Polnisch](https://tlmssoft.com/pl).
-- Allgemeine Produktfragen zu [Torg](https://github.com/tlmssoft/torg/issues/new/choose), [B2B Portal](https://github.com/tlmssoft/b2b-portal/issues/new/choose) und [Torg Mobile](https://github.com/tlmssoft/torg-mobile/issues/new/choose).

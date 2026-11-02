@@ -10,11 +10,11 @@ Tworzymy połączone rozwiązania dla zespołów handlowych, dostawców i klient
 
 | Produkt | Zastosowanie | Dowiedz się więcej |
 | --- | --- | --- |
-| **[Torg](https://github.com/tlmssoft/torg)** | Zespoły, trasy, wizyty, zadania i wyniki operacyjne dla kierowników i liderów. | [Zarządzanie zespołem](https://tlmssoft.com/pl/solutions/sales-team-management) |
-| **[B2B Portal](https://github.com/tlmssoft/b2b-portal)** | Katalog, ponawianie zamówień i zgłoszenia serwisowe dla dostawców oraz klientów biznesowych. | [Zamówienia B2B](https://tlmssoft.com/pl/solutions/b2b-ordering) |
-| **[Torg Mobile](https://github.com/tlmssoft/torg-mobile)** | Zamówienia, zadania, zdjęcia i synchronizacja w terenowej pracy na Androidzie. | [Sprzedaż mobilna](https://tlmssoft.com/pl/solutions/field-sales) |
+| **[Torg](https://tlmssoft.com/pl/products/torg)** | Zespoły, trasy, wizyty, zadania i wyniki operacyjne dla kierowników i liderów. | [Zarządzanie zespołem](https://tlmssoft.com/pl/solutions/sales-team-management) |
+| **[B2B Portal](https://tlmssoft.com/pl/products/b2b)** | Katalog, ponawianie zamówień i zgłoszenia serwisowe dla dostawców oraz klientów biznesowych. | [Zamówienia B2B](https://tlmssoft.com/pl/solutions/b2b-ordering) |
+| **[Torg Mobile](https://tlmssoft.com/pl/products/mobile)** | Zamówienia, zadania, zdjęcia i synchronizacja w terenowej pracy na Androidzie. | [Sprzedaż mobilna](https://tlmssoft.com/pl/solutions/field-sales) |
 
-Publiczne repozytoria produktów zawierają opisy funkcji, przykładowe interfejsy i odnośniki do procesów. Kod źródłowy aplikacji pozostaje w repozytoriach prywatnych.
+Opisy funkcji, przykładowe interfejsy i szczegółowe procesy są dostępne na naszej stronie. Kod źródłowy aplikacji pozostaje w repozytoriach prywatnych.
 
 ## Połączony ekosystem
 
@@ -28,4 +28,3 @@ React, Next.js i React Native dla aplikacji internetowych oraz mobilnych. Python
 
 - [Produkty](https://tlmssoft.com/pl#products) i [rozwiązania biznesowe](https://tlmssoft.com/pl#solutions).
 - Strona po [ukraińsku](https://tlmssoft.com/uk), [angielsku](https://tlmssoft.com/en), [niemiecku](https://tlmssoft.com/de) i [polsku](https://tlmssoft.com/pl).
-- Ogólne pytania o [Torg](https://github.com/tlmssoft/torg/issues/new/choose), [B2B Portal](https://github.com/tlmssoft/b2b-portal/issues/new/choose) i [Torg Mobile](https://github.com/tlmssoft/torg-mobile/issues/new/choose).

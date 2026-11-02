@@ -12,11 +12,11 @@ We build connected products for sales teams, suppliers and business customers. O
 
 | Product | Built for | Explore |
 | --- | --- | --- |
-| **[Torg](https://github.com/tlmssoft/torg)** | Managers and supervisors organizing teams, routes, visits, tasks and operational results. | [Sales team workflow](https://tlmssoft.com/en/solutions/sales-team-management) |
-| **[B2B Portal](https://github.com/tlmssoft/b2b-portal)** | Suppliers giving business customers a direct channel for catalog browsing, repeat orders and service requests. | [Supplier ordering workflow](https://tlmssoft.com/en/solutions/b2b-ordering) |
-| **[Torg Mobile](https://github.com/tlmssoft/torg-mobile)** | Representatives working at customer locations with orders, tasks, photos and synchronization on Android. | [Field sales workflow](https://tlmssoft.com/en/solutions/field-sales) |
+| **[Torg](https://tlmssoft.com/en/products/torg)** | Managers and supervisors organizing teams, routes, visits, tasks and operational results. | [Sales team workflow](https://tlmssoft.com/en/solutions/sales-team-management) |
+| **[B2B Portal](https://tlmssoft.com/en/products/b2b)** | Suppliers giving business customers a direct channel for catalog browsing, repeat orders and service requests. | [Supplier ordering workflow](https://tlmssoft.com/en/solutions/b2b-ordering) |
+| **[Torg Mobile](https://tlmssoft.com/en/products/mobile)** | Representatives working at customer locations with orders, tasks, photos and synchronization on Android. | [Field sales workflow](https://tlmssoft.com/en/solutions/field-sales) |
 
-Each public product repository contains a capability overview, an illustrative interface and links to detailed scenarios. The applications' source repositories are private.
+Product capabilities, interface illustrations and detailed workflows are available on our website. The applications’ source repositories are private.
 
 ## One connected ecosystem
 
@@ -33,4 +33,3 @@ Each public product repository contains a capability overview, an illustrative i
 
 - Explore [the product catalog](https://tlmssoft.com/en#products) and [business solutions](https://tlmssoft.com/en#solutions).
 - Read the website in [Ukrainian](https://tlmssoft.com/uk), [English](https://tlmssoft.com/en), [German](https://tlmssoft.com/de) or [Polish](https://tlmssoft.com/pl).
-- Ask a general product question in [Torg](https://github.com/tlmssoft/torg/issues/new/choose), [B2B Portal](https://github.com/tlmssoft/b2b-portal/issues/new/choose) or [Torg Mobile](https://github.com/tlmssoft/torg-mobile/issues/new/choose).

@@ -12,11 +12,11 @@
 
 | Продукт | Для кого і для чого | Детальніше |
 | --- | --- | --- |
-| **[Torg](https://github.com/tlmssoft/torg)** | Керівники й супервайзери: команди, маршрути, візити, завдання та оперативні результати. | [Робота торгової команди](https://tlmssoft.com/uk/solutions/sales-team-management) |
-| **[B2B Portal](https://github.com/tlmssoft/b2b-portal)** | Постачальники та бізнес-клієнти: каталог, повторні замовлення й сервісні звернення. | [B2B-замовлення](https://tlmssoft.com/uk/solutions/b2b-ordering) |
-| **[Torg Mobile](https://github.com/tlmssoft/torg-mobile)** | Торгові в точках: замовлення, завдання, фото й синхронізація на Android. | [Мобільна торгівля](https://tlmssoft.com/uk/solutions/field-sales) |
+| **[Torg](https://tlmssoft.com/uk/products/torg)** | Керівники й супервайзери: команди, маршрути, візити, завдання та оперативні результати. | [Робота торгової команди](https://tlmssoft.com/uk/solutions/sales-team-management) |
+| **[B2B Portal](https://tlmssoft.com/uk/products/b2b)** | Постачальники та бізнес-клієнти: каталог, повторні замовлення й сервісні звернення. | [B2B-замовлення](https://tlmssoft.com/uk/solutions/b2b-ordering) |
+| **[Torg Mobile](https://tlmssoft.com/uk/products/mobile)** | Торгові в точках: замовлення, завдання, фото й синхронізація на Android. | [Мобільна торгівля](https://tlmssoft.com/uk/solutions/field-sales) |
 
-Публічні репозиторії містять описи можливостей, ілюстрації інтерфейсів і посилання на робочі сценарії. Вихідний код застосунків зберігається у приватних репозиторіях.
+Можливості продуктів, ілюстрації інтерфейсів і детальні робочі сценарії доступні на сайті компанії. Вихідний код застосунків зберігається у приватних репозиторіях.
 
 ## Пов’язана екосистема
 
@@ -33,4 +33,3 @@
 
 - [Каталог продуктів](https://tlmssoft.com/uk#products) і [рішення для бізнесу](https://tlmssoft.com/uk#solutions).
 - Сайт [українською](https://tlmssoft.com/uk), [англійською](https://tlmssoft.com/en), [німецькою](https://tlmssoft.com/de) та [польською](https://tlmssoft.com/pl).
-- Загальні запитання про [Torg](https://github.com/tlmssoft/torg/issues/new/choose), [B2B Portal](https://github.com/tlmssoft/b2b-portal/issues/new/choose) і [Torg Mobile](https://github.com/tlmssoft/torg-mobile/issues/new/choose).

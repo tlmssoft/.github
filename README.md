@@ -14,10 +14,10 @@ Public profile and brand assets for [github.com/tlmssoft](https://github.com/tlm
 
 The logo and brand identity identify TLMSsoft. No trademark or brand usage license is granted by publishing these assets.
 
-## Public product showcases
+## Products on the official website
 
-- [Torg](https://github.com/tlmssoft/torg): sales teams, routes and visit outcomes.
-- [B2B Portal](https://github.com/tlmssoft/b2b-portal): supplier and business-customer ordering.
-- [Torg Mobile](https://github.com/tlmssoft/torg-mobile): Android field sales workflows.
+- [Torg](https://tlmssoft.com/en/products/torg): sales teams, routes and visit outcomes.
+- [B2B Portal](https://tlmssoft.com/en/products/b2b): supplier and business-customer ordering.
+- [Torg Mobile](https://tlmssoft.com/en/products/mobile): Android field sales workflows.
 
 [Official website](https://tlmssoft.com) · [Business solutions](https://tlmssoft.com/en#solutions)
