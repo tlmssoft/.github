@@ -1,48 +1,36 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tlmssoft/.github/main/brand/tlmssoft-avatar.png" width="112" height="112" alt="TLMSsoft logo" />
-</p>
-
+<p align="center"><img src="https://tlmssoft.com/brand/logo.png" width="100" height="100" alt="TLMSsoft logo" /></p>
 <h1 align="center">TLMSsoft</h1>
-
 <p align="center"><strong>Software that keeps business connected.</strong></p>
+<p align="center">Sales operations · B2B ordering · Mobile field work · Integrations</p>
+<p align="center"><a href="https://tlmssoft.com/en">Website</a> · <a href="https://github.com/tlmssoft/.github/blob/main/profile/README.uk.md">Українська</a> · <a href="https://github.com/tlmssoft/.github/blob/main/profile/README.de.md">Deutsch</a> · <a href="https://github.com/tlmssoft/.github/blob/main/profile/README.pl.md">Polski</a></p>
 
-<p align="center">Business platforms · B2B commerce · Mobile operations · Integrations</p>
+## Software for the way your business works
 
-<p align="center">
-  <a href="https://b2b.tlmssoft.com">B2B Portal</a>
-  &nbsp;·&nbsp;
-  <a href="https://torg.tlmssoft.com">Torg Workspace</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/tlmssoft/.github/blob/main/profile/README.uk.md">Українською</a>
-</p>
+We build connected products for sales teams, suppliers and business customers. Our work brings everyday operations into clear workflows, connecting web and mobile applications with external business systems.
 
----
+## Explore our products
 
-### Built around the way your business works
-
-We develop connected software for sales teams, suppliers and business customers. Our focus is practical: clear workflows, dependable integrations and products that work on desktop and mobile.
-
-| Business platforms | Digital commerce | Mobile operations |
+| Product | Built for | Explore |
 | --- | --- | --- |
-| Team management, routes, visits and operational reporting. | B2B catalogs, ordering, customer service and delivery visibility. | Field workflows, photos, location data and synchronization. |
+| **[Torg](https://github.com/tlmssoft/torg)** | Managers and supervisors organizing teams, routes, visits, tasks and operational results. | [Sales team workflow](https://tlmssoft.com/en/solutions/sales-team-management) |
+| **[B2B Portal](https://github.com/tlmssoft/b2b-portal)** | Suppliers giving business customers a direct channel for catalog browsing, repeat orders and service requests. | [Supplier ordering workflow](https://tlmssoft.com/en/solutions/b2b-ordering) |
+| **[Torg Mobile](https://github.com/tlmssoft/torg-mobile)** | Representatives working at customer locations with orders, tasks, photos and synchronization on Android. | [Field sales workflow](https://tlmssoft.com/en/solutions/field-sales) |
 
-### One connected ecosystem
+Each public product repository contains a capability overview, an illustrative interface and links to detailed scenarios. The applications' source repositories are private.
 
-**Torg** brings sales teams, customer locations and field activity into one workspace. It connects operational workflows with external accounting systems through explicit APIs.
+## One connected ecosystem
 
-**B2B Portal** gives business customers a direct way to browse an assortment, place orders and work with their supplier. It connects to Torg while keeping the customer experience focused and accessible.
+**Torg** organizes the sales team's work. **Torg Mobile** records activity at customer locations. **B2B Portal** lets business customers prepare and submit their orders. Defined integration contracts connect these workflows with the external accounting system, where inventory and accounting remain.
 
-**Mobile** supports sales representatives in the field, with workflows designed around visits, orders and synchronization.
+## Engineering foundations
 
-### Engineering for the long run
+- React, Next.js and React Native for web and mobile experiences.
+- Python, FastAPI and PostgreSQL for application services.
+- Explicit APIs, versioned migrations and independent application boundaries.
+- Automated validation and repeatable Docker-based delivery.
 
-- **Clear boundaries.** Independent applications with explicit integration contracts.
-- **Consistent experiences.** React, Next.js and React Native across web and mobile.
-- **Dependable foundations.** Python, FastAPI, PostgreSQL and versioned migrations.
-- **Repeatable delivery.** Automated checks, Docker-based deployments and verified recovery procedures.
+## Learn more
 
----
-
-<p align="center"><strong>Thoughtful engineering. Useful products. Connected business.</strong></p>
-
-<p align="center"><sub>Product source repositories are private. This profile introduces our work and publishes our brand assets.</sub></p>
+- Explore [the product catalog](https://tlmssoft.com/en#products) and [business solutions](https://tlmssoft.com/en#solutions).
+- Read the website in [Ukrainian](https://tlmssoft.com/uk), [English](https://tlmssoft.com/en), [German](https://tlmssoft.com/de) or [Polish](https://tlmssoft.com/pl).
+- Ask a general product question in [Torg](https://github.com/tlmssoft/torg/issues/new/choose), [B2B Portal](https://github.com/tlmssoft/b2b-portal/issues/new/choose) or [Torg Mobile](https://github.com/tlmssoft/torg-mobile/issues/new/choose).
