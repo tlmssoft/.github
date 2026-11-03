@@ -1,11 +1,10 @@
 # TLMSsoft brand
 
-The connected TL monogram represents software architecture, integration and forward movement. Cyan and blue on midnight navy form the primary identity. Use the square avatar with its existing safe margins; do not stretch or recolor it.
+The connected TL monogram represents software architecture, integration and forward movement. Cyan and blue on midnight navy form the primary identity. Keep the artwork’s safe margins; do not stretch or recolor it.
 
 - `tlmssoft-logo-original.png`: original generated artwork.
-- `tlmssoft-avatar.png`: 512 × 512 PNG export for GitHub and profile display.
 
-Created on 2026-11-02 using the built-in OpenAI image generation tool (`imagegen` skill). The avatar export changes dimensions only.
+Created on 2026-11-02 using the built-in OpenAI image generation tool (`imagegen` skill).
 
 ## Generation prompt
 

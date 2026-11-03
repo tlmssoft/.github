@@ -6,7 +6,6 @@ Public profile and brand assets for [github.com/tlmssoft](https://github.com/tlm
 - [Ukrainian profile](profile/README.uk.md)
 - [German profile](profile/README.de.md)
 - [Polish profile](profile/README.pl.md)
-- [GitHub avatar, 512 × 512 PNG](brand/tlmssoft-avatar.png)
 - [Original logo](brand/tlmssoft-logo-original.png)
 - [Brand notes and generation prompt](brand/README.md)
 
